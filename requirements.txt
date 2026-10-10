@@ -1,0 +1,11 @@
+pydantic
+pandas
+supabase
+python-dotenv
+fastapi
+uvicorn
+rich
+requests
+google-genai
+tabulate
+numpy
